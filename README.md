@@ -1,0 +1,1 @@
+Built a scalable ETL pipeline in ADF + ADLS Gen2 to process 10M+ records, optimized transformations in Databricks (broadcast joins, caching, partitioning) improving performance by 60%, and delivered insights on customer segmentation, behavior, and product trends. 
